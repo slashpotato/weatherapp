@@ -48,4 +48,5 @@ google-services.json
 .externalNativeBuild
 .cxx
 local.properties
+.androidide
 >>>>>>> 86fbed0 (initial commit)
